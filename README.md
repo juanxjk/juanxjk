@@ -2,6 +2,10 @@
 
 I'm a fullstack web developer, but with a little passion with simulation and game programming. 🎮
 
+[![Linkedin](https://img.shields.io/badge/Juan_Carlos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-so)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juanksoliveira@gmail.com)
+[<img src="https://img.shields.io/github/followers/juanxjk?label=follow&style=social" height="22" title="Follow me" />](https://github.com/juanxjk) 
+
 # Working with:
 ## Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat-square&logo=javascript)
@@ -37,6 +41,3 @@ I'm a fullstack web developer, but with a little passion with simulation and gam
 
 Everyday seeking opportunities to make great projects.
 
-[![Linkedin](https://img.shields.io/badge/Juan_Carlos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-so)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juanksoliveira@gmail.com)
-[<img src="https://img.shields.io/github/followers/juanxjk?label=follow&style=social" height="22" title="Follow me" />](https://github.com/juanxjk) 
