@@ -21,6 +21,7 @@ I'm a fullstack web developer, but with a little passion with simulation and gam
 ![Nodejs](https://img.shields.io/badge/-Nodejs-222222?style=flat&logo=Node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=Laravel)
 ![Express.js](https://img.shields.io/badge/-Express-222222?style=flat&logo=express)
+![Express.js](https://img.shields.io/badge/-NestJS-222222?style=flat&logo=nestjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=Firebase)
 ![Socket.io](https://img.shields.io/badge/-Socket-222222?style=flat&logo=socket.io)
