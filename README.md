@@ -11,6 +11,7 @@ I'm a fullstack web developer, but with a little passion with simulation and gam
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux)
+![Vue.js](https://img.shields.io/badge/-Vue.js-222222?style=flat&logo=Vue.js)
 ![Next.js](https://img.shields.io/badge/-Next-222222?style=flat&logo=Next.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-222222?style=flat&logo=SASS)
@@ -37,8 +38,5 @@ I'm a fullstack web developer, but with a little passion with simulation and gam
 ![Java](http://img.shields.io/badge/-Java-222222?style=flat&logo=java&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C-222222?style=flat&logo=c)
 ![Rust](https://img.shields.io/badge/-Rust-222222?style=flat&logo=rust)
-
-## Tools
-♥ The best tool ever created: ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
 Everyday seeking opportunities to make great projects.
