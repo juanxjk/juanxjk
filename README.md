@@ -1,7 +1,12 @@
-### Hi there 你好 👋
+### Hi there 👋
 
-I'm a fullstack web developer, but with a little passion with simulation and game programming. 🎮
+I'm Juan Carlos, a fullstack web developer, trying to write clean code without causing any conflicts 😆.
 
+🏠 An enthusiastic supporter of remote work.
+
+🚨 Typed languages matter.
+
+## Contact
 [![Linkedin](https://img.shields.io/badge/Juan_Carlos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-so)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juanksoliveira@gmail.com)
 [<img src="https://img.shields.io/github/followers/juanxjk?label=follow&style=social" height="22" title="Follow me" />](https://github.com/juanxjk) 
@@ -29,14 +34,3 @@ I'm a fullstack web developer, but with a little passion with simulation and gam
 ![GraphQL](https://img.shields.io/badge/-GraphQL-222222?style=flat&logo=graphql&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-222222?style=flat&logo=redis&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)
-
-## DevOps
-![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
-
-## Simulations/Game development
-![Java](http://img.shields.io/badge/-Java-222222?style=flat&logo=java&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C-222222?style=flat&logo=c)
-![Rust](https://img.shields.io/badge/-Rust-222222?style=flat&logo=rust)
-
-Everyday seeking opportunities to make great projects.
