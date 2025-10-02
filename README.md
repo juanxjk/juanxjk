@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Juan Carlos, a fullstack web developer, trying to write clean code without causing any conflicts 😆.
+I'm Juan Carlos, a Computer Engineer with 5 years of experience as a Full-Stack Web Developer.
+I started my career building landing pages with WordPress, and over time, transitioned to developing complex web applications using modern technologies such as TypeScript, Laravel, Vue.js, and React.
+For the past 4 years, I’ve been working at Meiker.io, where I’ve developed internal applications and contributed major features to the main platform, including Replayer and Books.
 
 🏠 An enthusiastic supporter of remote work.
 
