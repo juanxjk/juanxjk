@@ -6,8 +6,6 @@ For the past 4 years, I’ve been working at Meiker.io, where I’ve developed i
 
 🏠 An enthusiastic supporter of remote work.
 
-🚨 Typed languages matter.
-
 ## Contact
 [![Linkedin](https://img.shields.io/badge/Juan_Carlos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-so)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juanksoliveira@gmail.com)
