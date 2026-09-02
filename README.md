@@ -15,7 +15,6 @@ For the past 4 years, I’ve been working at Meiker.io, where I’ve developed i
 ## Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-222222?style=flat&logo=Vue.js)
 ![Next.js](https://img.shields.io/badge/-Next-222222?style=flat&logo=Next.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap)
