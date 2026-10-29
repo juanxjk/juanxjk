@@ -40,11 +40,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
 
-## 📌 Projects
-
-- **[object-atlas](https://github.com/juanxjk/object-atlas)**: a platform that catalogs physical items and links each one to its own digital profile through a QR code, with storytelling, provenance tracking and media attachments. *(TypeScript)*
-- **[ufersa-orbital-simulation](https://github.com/juanxjk/ufersa-orbital-simulation)**: an orbital simulation from my Computer Engineering studies at UFERSA. *(Java)*
-
 ## 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Carlos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-so)
